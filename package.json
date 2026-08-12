@@ -1,0 +1,11 @@
+{
+  "name": "nurse-finder",
+  "private": true,
+  "scripts": {
+    "mobile": "cd apps/mobile && npm start",
+    "admin": "cd apps/admin && npm run dev"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
